@@ -1,7 +1,7 @@
 
 /*
  *                                 project stop watch and synchronised clock;
- *    -azzedine lakhdar
+ *    -azzedine lakhdar-youssef qaissoumi
  *        
  *
  *    le 14 novembre 2020
