@@ -6,7 +6,7 @@ use ieee.std_logic_unsigned.all;
 
 --CLOCK and STOP WATCH project
 
--- AZZEDINE LAKHDAR
+-- AZZEDINE LAKHDAR - YOUSSEF QAISSOUMI
 
 ----------------------------------------------------------------------
 
